@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\lesson1\\task1\\Task1.csproj": {}
+    "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\lesson1\\task1\\Task1.csproj": {
+    "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\lesson1\\task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\lesson1\\task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Elemental\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\lesson1\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elemental\\AppData\\Roaming\\NuGet\\NuGet.Config"
