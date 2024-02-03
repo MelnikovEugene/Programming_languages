@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Напишите программу, которая принимает на вход
+//трёхзначное число и удаляет вторую цифру этого
+//числа.
+//Примеры
+//a = 256 => 26
+//a = 891 => 81
+
+int a=891;
+int b = (a / 100)*10 + (a % 10);
+Console.WriteLine(b);
