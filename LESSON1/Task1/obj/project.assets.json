@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
+      "projectUniqueName": "c:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
+      "projectPath": "c:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Elemental\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\obj\\",
+      "outputPath": "c:\\Users\\Elemental\\Desktop\\GeekBrains\\Programming languages\\LESSON1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elemental\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
